@@ -46,7 +46,6 @@ jobs:
   build:
     # Specify the OS for the runner
     runs-on: ubuntu-latest
-
     # Grant write permissions to access repository contents and GitHub Container Registry
     permissions:
       contents: write
